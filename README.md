@@ -13,7 +13,7 @@ shaped by wealth disparities, district diversity, and nationality-based homophil
 underlying mechanisms of urban segregation and designing policies for better integration.
 
 
-##Folders
+### Folders
 
 
 
