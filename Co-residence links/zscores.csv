@@ -1,0 +1,421 @@
+Source,Target,Weight
+Austria,Others,35.72446894882275
+Austria,Serbia,-90.20186574470375
+Austria,Turkey,-130.06347004495007
+Austria,Syria,-63.658055102204294
+Austria,Ukraine,102.57973807174199
+Austria,Germany,143.15925573670697
+Austria,Romania,-50.52299467675
+Austria,Poland,-42.666593086744726
+Austria,Afghanistan,-85.53813078160407
+Austria,Croatia,-26.226637126382464
+Austria,Bosnia and Herzegovina,-55.48003491095478
+Austria,Russia,4.019365359169102
+Austria,Hungary,-9.442147049320592
+Austria,Bulgaria,-45.10375521378623
+Austria,Slovakia,-18.95226842437343
+Austria,North Macedonia,-57.054828637303586
+Austria,Iran,6.336068057344183
+Austria,China,-24.864874322902597
+Austria,Italy,55.84608595179
+Austria,Slovenia,3.2318236363643207
+Others,Austria,35.7244689488227
+Others,Serbia,-11.61655036214286
+Others,Turkey,-52.241544976376005
+Others,Syria,10.61148702660575
+Others,Ukraine,154.2427938927134
+Others,Germany,198.9122542693373
+Others,Romania,-19.408918924859005
+Others,Poland,-28.09694944621369
+Others,Afghanistan,-67.16390229105328
+Others,Croatia,-1.5158849569548387
+Others,Bosnia and Herzegovina,-22.93253857986741
+Others,Russia,41.7605593847385
+Others,Hungary,-4.183509627839383
+Others,Bulgaria,-0.5184664114971049
+Others,Slovakia,-11.501830723492047
+Others,North Macedonia,-40.49969139568522
+Others,Iran,3.012327854456427
+Others,China,-6.45006660514102
+Others,Italy,97.4363879169925
+Others,Slovenia,13.238984426879306
+Serbia,Austria,-90.20186574470378
+Serbia,Others,-11.616550362142853
+Serbia,Turkey,68.42139528455441
+Serbia,Syria,60.34054439080437
+Serbia,Ukraine,-23.13756003516645
+Serbia,Germany,2.664871008393142
+Serbia,Romania,26.16995778037841
+Serbia,Poland,0.5787590783982708
+Serbia,Afghanistan,-4.586092161137103
+Serbia,Croatia,48.06296434734569
+Serbia,Bosnia and Herzegovina,49.63071301697054
+Serbia,Russia,-50.39252337917543
+Serbia,Hungary,-14.004796671877504
+Serbia,Bulgaria,38.84488213252909
+Serbia,Slovakia,-18.153725133692703
+Serbia,North Macedonia,23.00134562647522
+Serbia,Iran,-49.929483464451444
+Serbia,China,-33.95107518078305
+Serbia,Italy,13.114615377920304
+Serbia,Slovenia,-5.280687927673246
+Turkey,Austria,-130.06347004495007
+Turkey,Others,-52.24154497637598
+Turkey,Serbia,68.42139528455441
+Turkey,Syria,47.638595688943425
+Turkey,Ukraine,-76.19097637631225
+Turkey,Germany,-92.4655285657961
+Turkey,Romania,20.723454021485338
+Turkey,Poland,-25.23127239954134
+Turkey,Afghanistan,13.166786012545115
+Turkey,Croatia,25.77581929168885
+Turkey,Bosnia and Herzegovina,48.707399065958505
+Turkey,Russia,-60.06570984286811
+Turkey,Hungary,-35.94753943949749
+Turkey,Bulgaria,44.92554408729006
+Turkey,Slovakia,-24.70866000893927
+Turkey,North Macedonia,32.572199972839556
+Turkey,Iran,-70.2274719248011
+Turkey,China,-33.80754958704482
+Turkey,Italy,-30.800039934344774
+Turkey,Slovenia,-12.346125734007883
+Syria,Austria,-63.6580551022043
+Syria,Others,10.611487026605733
+Syria,Serbia,60.340544390804354
+Syria,Turkey,47.63859568894341
+Syria,Ukraine,4.209807747696804
+Syria,Germany,53.958899617354696
+Syria,Romania,10.865919058939657
+Syria,Poland,-11.612990329280183
+Syria,Afghanistan,-6.566994285697046
+Syria,Croatia,28.42389332843386
+Syria,Bosnia and Herzegovina,36.28248151526545
+Syria,Russia,-30.97080557638293
+Syria,Hungary,-17.21548929468004
+Syria,Bulgaria,43.84285375773747
+Syria,Slovakia,-23.322492420218584
+Syria,North Macedonia,14.605083338959378
+Syria,Iran,-41.69536459101564
+Syria,China,-28.696857487102918
+Syria,Italy,33.63485711042216
+Syria,Slovenia,-5.665599039510491
+Ukraine,Austria,102.57973807174196
+Ukraine,Others,154.2427938927134
+Ukraine,Serbia,-23.13756003516646
+Ukraine,Turkey,-76.19097637631225
+Ukraine,Syria,4.209807747696772
+Ukraine,Germany,306.89202717849093
+Ukraine,Romania,-18.3113942020039
+Ukraine,Poland,-29.57855410495105
+Ukraine,Afghanistan,-87.84255616525472
+Ukraine,Croatia,1.041063480551447
+Ukraine,Bosnia and Herzegovina,-36.12469537587122
+Ukraine,Russia,130.5980003171137
+Ukraine,Hungary,17.419731778859585
+Ukraine,Bulgaria,1.9233693190865582
+Ukraine,Slovakia,-1.8762062439337588
+Ukraine,North Macedonia,-63.34336222726796
+Ukraine,Iran,40.695908306712376
+Ukraine,China,3.7757912825311575
+Ukraine,Italy,179.91153978878654
+Ukraine,Slovenia,39.792753574986186
+Germany,Austria,143.15925573670697
+Germany,Others,198.9122542693372
+Germany,Serbia,2.664871008393135
+Germany,Turkey,-92.46552856579612
+Germany,Syria,53.9588996173547
+Germany,Ukraine,306.89202717849093
+Germany,Romania,-9.948306105767571
+Germany,Poland,-7.812621378981465
+Germany,Afghanistan,-93.93550279551297
+Germany,Croatia,26.077405580770446
+Germany,Bosnia and Herzegovina,-20.22941196414636
+Germany,Russia,105.83671360633075
+Germany,Hungary,39.18583072974097
+Germany,Bulgaria,16.270224170067863
+Germany,Slovakia,12.545266042626071
+Germany,North Macedonia,-63.800448612749605
+Germany,Iran,51.221164801366456
+Germany,China,13.210874856749129
+Germany,Italy,236.62141507849023
+Germany,Slovenia,44.26348143335255
+Romania,Austria,-50.52299467674997
+Romania,Others,-19.408918924858984
+Romania,Serbia,26.169957780378432
+Romania,Turkey,20.723454021485345
+Romania,Syria,10.865919058939674
+Romania,Ukraine,-18.311394202003886
+Romania,Germany,-9.94830610576756
+Romania,Poland,-13.986146370001752
+Romania,Afghanistan,-18.956613551959027
+Romania,Croatia,15.712598552223653
+Romania,Bosnia and Herzegovina,15.900515506030338
+Romania,Russia,-38.10885237475031
+Romania,Hungary,-15.871857980343766
+Romania,Bulgaria,7.547971582092881
+Romania,Slovakia,-15.879839376732907
+Romania,North Macedonia,0.7488131791127692
+Romania,Iran,-37.705928530971626
+Romania,China,-27.88797422184556
+Romania,Italy,3.5803551092224346
+Romania,Slovenia,-6.6699992051730685
+Poland,Austria,-42.66659308674474
+Poland,Others,-28.09694944621369
+Poland,Serbia,0.5787590783982921
+Poland,Turkey,-25.231272399541325
+Poland,Syria,-11.612990329280176
+Poland,Ukraine,-29.57855410495102
+Poland,Germany,-7.812621378981444
+Poland,Romania,-13.986146370001745
+Poland,Afghanistan,-30.377905922726345
+Poland,Croatia,-0.29617001464483295
+Poland,Bosnia and Herzegovina,-9.874319038023643
+Poland,Russia,-43.29441414364379
+Poland,Hungary,-17.71899819786421
+Poland,Bulgaria,-22.11507507037453
+Poland,Slovakia,-22.101305816327326
+Poland,North Macedonia,-16.016852963827198
+Poland,Iran,-25.740264073438563
+Poland,China,-26.85879314906043
+Poland,Italy,-3.4325421880120732
+Poland,Slovenia,-11.061415230401535
+Afghanistan,Austria,-85.53813078160407
+Afghanistan,Others,-67.16390229105325
+Afghanistan,Serbia,-4.586092161137088
+Afghanistan,Turkey,13.166786012545103
+Afghanistan,Syria,-6.566994285697048
+Afghanistan,Ukraine,-87.84255616525472
+Afghanistan,Germany,-93.93550279551296
+Afghanistan,Romania,-18.95661355195901
+Afghanistan,Poland,-30.377905922726328
+Afghanistan,Croatia,-15.693415340390516
+Afghanistan,Bosnia and Herzegovina,-3.366092345585841
+Afghanistan,Russia,-62.40722243398837
+Afghanistan,Hungary,-37.30642752266892
+Afghanistan,Bulgaria,-3.601241292409913
+Afghanistan,Slovakia,-32.272628837729556
+Afghanistan,North Macedonia,1.2134484772393082
+Afghanistan,Iran,-48.639277404639834
+Afghanistan,China,-37.32054810275665
+Afghanistan,Italy,-49.947610361681626
+Afghanistan,Slovenia,-19.482659974850762
+Croatia,Austria,-26.22663712638248
+Croatia,Others,-1.5158849569548494
+Croatia,Serbia,48.06296434734569
+Croatia,Turkey,25.775819291688837
+Croatia,Syria,28.423893328433856
+Croatia,Ukraine,1.0410634805514576
+Croatia,Germany,26.077405580770463
+Croatia,Romania,15.712598552223639
+Croatia,Poland,-0.29617001464486137
+Croatia,Afghanistan,-15.69341534039053
+Croatia,Bosnia and Herzegovina,32.94861985667338
+Croatia,Russia,-37.334212169220784
+Croatia,Hungary,-2.9236132303340767
+Croatia,Bulgaria,18.398774438647486
+Croatia,Slovakia,-11.070430467753697
+Croatia,North Macedonia,7.711157589676315
+Croatia,Iran,-35.76264817273753
+Croatia,China,-29.03768394238039
+Croatia,Italy,23.00855566561927
+Croatia,Slovenia,-0.615385694025746
+Bosnia and Herzegovina,Austria,-55.480034910954814
+Bosnia and Herzegovina,Others,-22.932538579867416
+Bosnia and Herzegovina,Serbia,49.630713016970546
+Bosnia and Herzegovina,Turkey,48.70739906595848
+Bosnia and Herzegovina,Syria,36.28248151526543
+Bosnia and Herzegovina,Ukraine,-36.12469537587123
+Bosnia and Herzegovina,Germany,-20.229411964146347
+Bosnia and Herzegovina,Romania,15.900515506030331
+Bosnia and Herzegovina,Poland,-9.87431903802365
+Bosnia and Herzegovina,Afghanistan,-3.3660923455858445
+Bosnia and Herzegovina,Croatia,32.94861985667338
+Bosnia and Herzegovina,Russia,-51.224182892023826
+Bosnia and Herzegovina,Hungary,-13.468431543800463
+Bosnia and Herzegovina,Bulgaria,34.21540077808205
+Bosnia and Herzegovina,Slovakia,-17.75951681216718
+Bosnia and Herzegovina,North Macedonia,19.441183381238297
+Bosnia and Herzegovina,Iran,-53.27402684344618
+Bosnia and Herzegovina,China,-33.09786134287238
+Bosnia and Herzegovina,Italy,-1.8177396685607548
+Bosnia and Herzegovina,Slovenia,-5.997955762171672
+Russia,Austria,4.019365359169086
+Russia,Others,41.760559384738485
+Russia,Serbia,-50.392523379175415
+Russia,Turkey,-60.06570984286811
+Russia,Syria,-30.97080557638293
+Russia,Ukraine,130.59800031711373
+Russia,Germany,105.83671360633073
+Russia,Romania,-38.10885237475031
+Russia,Poland,-43.294414143643806
+Russia,Afghanistan,-62.40722243398837
+Russia,Croatia,-37.334212169220784
+Russia,Bosnia and Herzegovina,-51.224182892023826
+Russia,Hungary,-21.993798643816948
+Russia,Bulgaria,-23.006353607655274
+Russia,Slovakia,-19.978918924456934
+Russia,North Macedonia,-53.152245353604805
+Russia,Iran,4.303594474979513
+Russia,China,-7.256498274631642
+Russia,Italy,67.75764470743796
+Russia,Slovenia,11.673712742520372
+Hungary,Austria,-9.44214704932059
+Hungary,Others,-4.183509627839372
+Hungary,Serbia,-14.004796671877482
+Hungary,Turkey,-35.94753943949748
+Hungary,Syria,-17.215489294680033
+Hungary,Ukraine,17.41973177885958
+Hungary,Germany,39.18583072974098
+Hungary,Romania,-15.871857980343755
+Hungary,Poland,-17.71899819786423
+Hungary,Afghanistan,-37.30642752266892
+Hungary,Croatia,-2.923613230334066
+Hungary,Bosnia and Herzegovina,-13.468431543800463
+Hungary,Russia,-21.99379864381694
+Hungary,Bulgaria,-15.058954375980084
+Hungary,Slovakia,-13.819139709265436
+Hungary,North Macedonia,-28.724249821408826
+Hungary,Iran,-5.555257019109793
+Hungary,China,-24.982127621801688
+Hungary,Italy,23.35789600246486
+Hungary,Slovenia,-2.0260971967442005
+Bulgaria,Austria,-45.10375521378626
+Bulgaria,Others,-0.5184664114971085
+Bulgaria,Serbia,38.84488213252908
+Bulgaria,Turkey,44.92554408729005
+Bulgaria,Syria,43.842853757737466
+Bulgaria,Ukraine,1.9233693190865635
+Bulgaria,Germany,16.270224170067866
+Bulgaria,Romania,7.547971582092877
+Bulgaria,Poland,-22.11507507037453
+Bulgaria,Afghanistan,-3.6012412924099344
+Bulgaria,Croatia,18.398774438647486
+Bulgaria,Bosnia and Herzegovina,34.215400778082056
+Bulgaria,Russia,-23.00635360765528
+Bulgaria,Hungary,-15.058954375980095
+Bulgaria,Slovakia,-19.04457772241939
+Bulgaria,North Macedonia,17.18441011677427
+Bulgaria,Iran,-45.97815364819645
+Bulgaria,China,-28.002251149544918
+Bulgaria,Italy,23.384317593465106
+Bulgaria,Slovenia,0.8942002840176055
+Slovakia,Austria,-18.95226842437341
+Slovakia,Others,-11.501830723492034
+Slovakia,Serbia,-18.153725133692674
+Slovakia,Turkey,-24.708660008939262
+Slovakia,Syria,-23.32249242021856
+Slovakia,Ukraine,-1.8762062439337446
+Slovakia,Germany,12.545266042626086
+Slovakia,Romania,-15.879839376732896
+Slovakia,Poland,-22.10130581632732
+Slovakia,Afghanistan,-32.27262883772954
+Slovakia,Croatia,-11.07043046775368
+Slovakia,Bosnia and Herzegovina,-17.759516812167153
+Slovakia,Russia,-19.978918924456934
+Slovakia,Hungary,-13.819139709265428
+Slovakia,Bulgaria,-19.04457772241939
+Slovakia,North Macedonia,-25.610920034824016
+Slovakia,Iran,-18.789843141889808
+Slovakia,China,-21.192008405398116
+Slovakia,Italy,9.914395401197384
+Slovakia,Slovenia,-4.233742210000331
+North Macedonia,Austria,-57.054828637303565
+North Macedonia,Others,-40.499691395685204
+North Macedonia,Serbia,23.00134562647522
+North Macedonia,Turkey,32.572199972839556
+North Macedonia,Syria,14.605083338959384
+North Macedonia,Ukraine,-63.343362227267946
+North Macedonia,Germany,-63.80044861274959
+North Macedonia,Romania,0.7488131791127834
+North Macedonia,Poland,-16.01685296382721
+North Macedonia,Afghanistan,1.2134484772393046
+North Macedonia,Croatia,7.711157589676326
+North Macedonia,Bosnia and Herzegovina,19.441183381238297
+North Macedonia,Russia,-53.15224535360481
+North Macedonia,Hungary,-28.72424982140883
+North Macedonia,Bulgaria,17.184410116774277
+North Macedonia,Slovakia,-25.61092003482403
+North Macedonia,Iran,-54.48612029221236
+North Macedonia,China,-35.102576739578346
+North Macedonia,Italy,-36.08584840111275
+North Macedonia,Slovenia,-16.244529390578688
+Iran,Austria,6.336068057344167
+Iran,Others,3.0123278544564247
+Iran,Serbia,-49.92948346445145
+Iran,Turkey,-70.2274719248011
+Iran,Syria,-41.695364591015654
+Iran,Ukraine,40.69590830671238
+Iran,Germany,51.221164801366456
+Iran,Romania,-37.705928530971626
+Iran,Poland,-25.740264073438567
+Iran,Afghanistan,-48.639277404639856
+Iran,Croatia,-35.76264817273753
+Iran,Bosnia and Herzegovina,-53.27402684344617
+Iran,Russia,4.303594474979513
+Iran,Hungary,-5.5552570191097885
+Iran,Bulgaria,-45.978153648196454
+Iran,Slovakia,-18.789843141889804
+Iran,North Macedonia,-54.48612029221238
+Iran,China,-16.284557334289353
+Iran,Italy,27.779428100203162
+Iran,Slovenia,-4.0257630399327065
+China,Austria,-24.864874322902597
+China,Others,-6.450066605141009
+China,Serbia,-33.951075180783036
+China,Turkey,-33.807549587044825
+China,Syria,-28.696857487102903
+China,Ukraine,3.77579128253117
+China,Germany,13.210874856749129
+China,Romania,-27.88797422184556
+China,Poland,-26.858793149060443
+China,Afghanistan,-37.32054810275666
+China,Croatia,-29.037683942380376
+China,Bosnia and Herzegovina,-33.09786134287236
+China,Russia,-7.256498274631642
+China,Hungary,-24.98212762180169
+China,Bulgaria,-28.002251149544925
+China,Slovakia,-21.192008405398123
+China,North Macedonia,-35.10257673957835
+China,Iran,-16.28455733428935
+China,Italy,8.021919981102783
+China,Slovenia,-7.479103324312642
+Italy,Austria,55.84608595179001
+Italy,Others,97.43638791699252
+Italy,Serbia,13.114615377920316
+Italy,Turkey,-30.800039934344774
+Italy,Syria,33.634857110422146
+Italy,Ukraine,179.9115397887866
+Italy,Germany,236.62141507849023
+Italy,Romania,3.5803551092224346
+Italy,Poland,-3.4325421880120732
+Italy,Afghanistan,-49.947610361681626
+Italy,Croatia,23.008555665619298
+Italy,Bosnia and Herzegovina,-1.8177396685607476
+Italy,Russia,67.75764470743796
+Italy,Hungary,23.357896002464862
+Italy,Bulgaria,23.384317593465113
+Italy,Slovakia,9.914395401197384
+Italy,North Macedonia,-36.08584840111275
+Italy,Iran,27.77942810020318
+Italy,China,8.021919981102783
+Italy,Slovenia,37.73021819349814
+Slovenia,Austria,3.2318236363643233
+Slovenia,Others,13.238984426879309
+Slovenia,Serbia,-5.2806879276732355
+Slovenia,Turkey,-12.34612573400788
+Slovenia,Syria,-5.6655990395104965
+Slovenia,Ukraine,39.79275357498621
+Slovenia,Germany,44.26348143335255
+Slovenia,Romania,-6.669999205173073
+Slovenia,Poland,-11.061415230401536
+Slovenia,Afghanistan,-19.482659974850762
+Slovenia,Croatia,-0.6153856940257487
+Slovenia,Bosnia and Herzegovina,-5.997955762171667
+Slovenia,Russia,11.67371274252038
+Slovenia,Hungary,-2.026097196744202
+Slovenia,Bulgaria,0.8942002840176109
+Slovenia,Slovakia,-4.233742210000334
+Slovenia,North Macedonia,-16.244529390578688
+Slovenia,Iran,-4.025763039932703
+Slovenia,China,-7.479103324312647
+Slovenia,Italy,37.730218193498146

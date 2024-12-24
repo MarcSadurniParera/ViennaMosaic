@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Vienna Mosaic: Navigating Social Borders in a Melting Pot"
+authors:
+  - family-names: Sadurní Parera
+    given-names: Marc
+    orcid: https://orcid.org/0000-0002-9870-5513
+    affiliation: Universitat de Barcelona and Complexity Science Hub
+version: 1.0.0
+doi:
+date-released: 2024-12-24
+license: Creative Commons
+repository-code: https://github.com/MarcSadurniParera/ViennaMosaic
