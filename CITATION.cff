@@ -1,13 +1,13 @@
 cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
-title: "Vienna Mosaic: Navigating Social Borders in a Melting Pot"
+title: "Quantifying urban socio-economic segregation through co-residence network reconstruction"
 authors:
   - family-names: Sadurní Parera
     given-names: Marc
     orcid: https://orcid.org/0000-0002-9870-5513
-    affiliation: Universitat de Barcelona and Complexity Science Hub
+    affiliation: Universitat de Barcelona and Complexity Science Hub Vienna
 version: 1.0.0
-doi:
-date-released: 2024-12-24
+doi: https://doi.org/10.48550/arXiv.2501.15920
+date-released: 2025-05-27
 license: Creative Commons
 repository-code: https://github.com/MarcSadurniParera/ViennaMosaic
