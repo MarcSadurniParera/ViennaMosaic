@@ -1,4 +1,8 @@
+Data and Code to reproduce the manuscript
+
 # Quantifying urban socio-economic segregation through co-residence network reconstruction
+
+The manuscript is available at: https://doi.org/10.48550/arXiv.2501.15920
 
 ## Abstract
 
@@ -15,3 +19,5 @@ These insights shed light on the underlying mechanisms of urban segregation and 
 along with the Pearson correlation coefficients calculated between the population fractions of different countries.
 - `Infomap Networks/` Includes Infomap network .ftree files both with and without Bonferroni corrections, 
 as well as the corresponding .txt files used for their generation.
+- `Data, Code and Figures/` Includes the Python notebooks used to generate the Main and Supplementary figures, 
+along with the datasets utilised in their creation. Additionally, the extracted figures are provided.
