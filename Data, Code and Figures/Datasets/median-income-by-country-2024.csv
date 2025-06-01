@@ -1,0 +1,162 @@
+"place","pop2024","growthRate","area","country","cca3","cca2","ccn3","region","subregion","unMember","officialName","landAreaKm","density","densityMi","borders","Rank","medianIncomeByCountry_medianIncome","medianIncomeByCountry_meanIncome","medianIncomeByCountry_gdpPerCapitaPPP","medianIncomeByCountry_DataYear"
+356,1441719852,0.00916,3287590,"India","IND","IN",356,"Asia","Southern Asia, South Central Asia",true,"Republic of India",2973190,484.9067,1255.9084,"AFG, BGD, BTN, MMR, CHN, NPL, PAK, LKA",1,,1314,6996,"2006-2012"
+156,1425178782,-0.00035,9706961,"China","CHN","CN",156,"Asia","Eastern Asia",true,"People's Republic of China",9424702.9,151.2174,391.653,"AFG, BTN, MMR, HKG, IND, KAZ, PRK, KGZ, LAO, MAC, MNG, PAK, RUS, TJK, VNM",2,,4246,16829,"2006-2012"
+840,341814420,0.00535,9372610,"United States","USA","US",840,"North America","Northern America",true,"United States of America",9147420,37.3673,96.7813,"CAN, MEX",3,24327,31974,70220,2021
+586,245209815,0.01964,881912,"Pakistan","PAK","PK",586,"Asia","Southern Asia, South Central Asia",true,"Islamic Republic of Pakistan",770880,318.0908,823.8551,"AFG, CHN, IND, IRN",5,1399,1797,4898,"2006-2012"
+566,229152217,0.02389,923768,"Nigeria","NGA","NG",566,"Africa","Western Africa, Sub-Saharan Africa",true,"Federal Republic of Nigeria",910770,251.6027,651.6511,"BEN, CMR, TCD, NER",6,825,1021,5362,"2006-2012"
+76,217637297,0.00561,8515767,"Brazil","BRA","BR",76,"South America","South America, Latin America",true,"Federative Republic of Brazil",8358140,26.039,67.4409,"ARG, BOL, COL, GUF, GUY, PRY, PER, SUR, URY, VEN",7,4230,7001,7697,2021
+50,174701211,0.0101,147570,"Bangladesh","BGD","BD",50,"Asia","Southern Asia, South Central Asia",true,"People's Republic of Bangladesh",130170,1342.1004,3476.0401,"MMR, IND",8,1131,1414,4964,"2006-2012"
+643,143957079,-0.00337,17098242,"Russia","RUS","RU",643,"Europe","Eastern Europe",true,"Russian Federation",16376870,8.7903,22.7668,"AZE, BLR, CHN, EST, FIN, GEO, KAZ, PRK, LVA, LTU, MNG, NOR, POL, UKR",9,9563,11709,11287,2018
+231,129719719,0.02523,1104300,"Ethiopia","ETH","ET",231,"Africa","Eastern Africa, Sub-Saharan Africa",true,"Federal Democratic Republic of Ethiopia",1128571.3,114.9415,297.6986,"DJI, ERI, KEN, SOM, SSD, SDN",10,907,1107,2319,"2006-2012"
+484,129388467,0.00726,1964375,"Mexico","MEX","MX",484,"North America","Central America, Latin America",true,"United Mexican States",1943950,66.5596,172.3893,"BLZ, GTM, USA",11,3486,5099,8655,2020
+392,122631432,-0.00538,377930,"Japan","JPN","JP",392,"Asia","Eastern Asia",true,"Japan",364500,336.4374,871.3729,"",12,15144,18162,38475,2013
+608,119106224,0.01508,342353,"Philippines","PHL","PH",608,"Asia","South-Eastern Asia",true,"Republic of the Philippines",298170,399.4574,1034.5948,"",13,2292,3219,3461,2021
+818,114484252,0.01568,1002450,"Egypt","EGY","EG",818,"Africa","Northern Africa, The Middle East",true,"Arab Republic of Egypt",995450,115.0075,297.8695,"ISR, LBY, SDN",14,,1485,1847,"2006-2012"
+180,105625114,0.03288,2344858,"DR Congo","COD","CD",180,"Africa","Middle Africa, Sub-Saharan Africa",true,"Democratic Republic of the Congo",2267050,46.5914,120.6718,"AGO, BDI, CAF, COG, RWA, SSD, TZA, UGA, ZMB",15,395,548,1146,"2006-2012"
+704,99497680,0.00646,331212,"Vietnam","VNM","VN",704,"Asia","South-Eastern Asia",true,"Socialist Republic of Vietnam",313429,317.4489,822.1926,"KHM, CHN, LAO",16,3149,3881,8397,"2006-2012"
+364,89809781,0.00714,1648195,"Iran","IRN","IR",364,"Asia","Southern Asia, The Middle East",true,"Islamic Republic of Iran",1622500,55.3527,143.3635,"AFG, ARM, AZE, IRQ, PAK, TUR, TKM",17,4360,5924,12937,"2006-2012"
+792,86260417,0.00518,783562,"Turkey","TUR","TR",792,"Asia","Western Asia, The Middle East",true,"Republic of Turkey",783562,110.0875,285.1267,"ARM, AZE, BGR, GEO, GRC, IRN, IRQ, SYR",18,5251,7267,28133,"2006-2012"
+276,83252474,-0.00051,357114,"Germany","DEU","DE",276,"Europe","Western Europe",true,"Federal Republic of Germany",349390,238.2795,617.1439,"AUT, BEL, CZE, DNK, FRA, LUX, NLD, POL, CHE",19,20323,24046,46794,2019
+764,71885799,0.00118,513120,"Thailand","THA","TH",764,"Asia","South-Eastern Asia",true,"Kingdom of Thailand",510890,140.707,364.4311,"MMR, KHM, LAO, MYS",20,4356,5670,19276,"2006-2012"
+834,69419073,0.02938,945087,"Tanzania","TZA","TZ",834,"Africa","Eastern Africa, Sub-Saharan Africa",true,"United Republic of Tanzania",885800,78.3688,202.9752,"BDI, COD, KEN, MWI, MOZ, RWA, UGA, ZMB",21,702,992,2770,"2006-2012"
+826,67961439,0.00332,242900,"United Kingdom","GBR","GB",826,"Europe","Northern Europe",true,"United Kingdom of Great Britain and Northern Ireland",241930,280.9136,727.5663,"IRL",22,16907,20035,40318,2020
+250,64881830,0.00193,551695,"France","FRA","FR",250,"Europe","Western Europe",true,"French Republic",547557,118.4933,306.8976,"AND, BEL, DEU, ITA, LUX, MCO, ESP, CHE",23,18301,20951,39055,2020
+710,61020221,0.01003,1221037,"South Africa","ZAF","ZA",710,"Africa","Southern Africa, Sub-Saharan Africa",true,"Republic of South Africa",1213090,50.3015,130.2808,"BWA, LSO, MOZ, NAM, SWZ, ZWE",24,1624,4081,13034,"2006-2012"
+380,58697744,-0.00294,301336,"Italy","ITA","IT",380,"Europe","Southern Europe",true,"Italian Republic",295717,198.493,514.0968,"AUT, FRA, SMR, SVN, CHE, VAT",25,15268,18162,31919,2020
+404,56203030,0.02001,580367,"Kenya","KEN","KE",404,"Africa","Eastern Africa, Sub-Saharan Africa",true,"Republic of Kenya",569140,98.7508,255.7646,"ETH, SOM, SSD, TZA, UGA",26,874,1197,4521,"2006-2012"
+104,54964694,0.00709,676578,"Myanmar","MMR","MM",104,"Asia","South-Eastern Asia",true,"Republic of the Union of Myanmar",652670,84.2151,218.1172,"BGD, CHN, IND, LAO, THA",27,1909,2296,5369,"2006-2012"
+170,52340774,0.00491,1141748,"Colombia","COL","CO",170,"South America","South America, Latin America",true,"Republic of Colombia",1109500,47.1751,122.1835,"BRA, ECU, PAN, PER, VEN",28,3146,5168,6183,2021
+410,51741963,-0.00081,100210,"South Korea","KOR","KR",410,"Asia","Eastern Asia",true,"Republic of Korea",97600,530.1431,1373.0705,"PRK",29,13731,15772,29289,2016
+800,49924252,0.02762,241550,"Uganda","UGA","UG",800,"Africa","Eastern Africa, Sub-Saharan Africa",true,"Republic of Uganda",200520,248.9739,644.8425,"COD, KEN, RWA, SSD, TZA",30,804,1166,2284,"2006-2012"
+729,49358228,0.02597,1886068,"Sudan","SDN","SD",729,"Africa","Northern Africa",true,"Republic of the Sudan",1868000,26.423,68.4357,"CAF, TCD, EGY, ERI, ETH, LBY, SSD",31,1277,1592,4122,"2006-2012"
+724,47473373,-0.00097,505992,"Spain","ESP","ES",724,"Europe","Southern Europe",true,"Kingdom of Spain",499556.6,95.031,246.1303,"AND, FRA, GIB, PRT, MAR",32,14695,17155,26960,2020
+368,46523657,0.0224,438317,"Iraq","IRQ","IQ",368,"Asia","Western Asia, The Middle East",true,"Republic of Iraq",434128,107.1658,277.5593,"IRN, JOR, KWT, SAU, SYR, TUR",33,1951,2293,11362,"2006-2012"
+12,46278751,0.01474,2381741,"Algeria","DZA","DZ",12,"Africa","Northern Africa",true,"People's Democratic Republic of Algeria",2381741,19.4306,50.3254,"TUN, LBY, NER, ESH, MRT, MLI, MAR",34,2612,2996,12019,"2006-2012"
+32,46057866,0.0062,2780400,"Argentina","ARG","AR",32,"South America","South America, Latin America",true,"Argentine Republic",2736690,16.8298,43.5891,"BOL, BRA, CHL, PRY, URY",35,6731,9041,10636,2021
+616,40221726,-0.01961,312679,"Poland","POL","PL",616,"Europe","Eastern Europe",true,"Republic of Poland",306130,131.3877,340.2942,"BLR, CZE, DEU, LTU, RUS, SVK, UKR",37,11308,12932,15700,2019
+124,39107046,0.0084,9984670,"Canada","CAN","CA",124,"North America","Northern America",true,"Canada",8965590,4.3619,11.2973,"USA",38,20550,23991,46374,2019
+504,38211459,0.00982,446550,"Morocco","MAR","MA",504,"Africa","Northern Africa",true,"Kingdom of Morocco",446300,85.6183,221.7515,"DZA, ESH, ESP",39,2716,3721,7826,"2006-2012"
+804,37937821,0.03247,603500,"Ukraine","UKR","UA",804,"Europe","Eastern Europe",true,"Ukraine",579400,65.4778,169.5874,"BLR, HUN, MDA, POL, ROU, RUS, SVK",40,4434,5010,13341,"2006-2012"
+24,37804634,0.03054,1246700,"Angola","AGO","AO",24,"Africa","Middle Africa, Sub-Saharan Africa",true,"Republic of Angola",1246700,30.3238,78.5385,"COG, COD, ZMB, NAM",41,665,1066,6965,"2006-2012"
+860,35673804,0.0145,447400,"Uzbekistan","UZB","UZ",860,"Asia","Central Asia, South Central Asia",true,"Republic of Uzbekistan",440650,80.9572,209.6792,"AFG, KAZ, KGZ, TJK, TKM",43,591,752,7308,"2006-2012"
+887,35219853,0.02235,527968,"Yemen","YEM","YE",887,"Asia","Western Asia, The Middle East",true,"Republic of Yemen",527970,66.7081,172.7739,"OMN, SAU",44,1150,1503,3688,"2006-2012"
+508,34858402,0.02835,801590,"Mozambique","MOZ","MZ",508,"Africa","Eastern Africa, Sub-Saharan Africa",true,"Republic of Mozambique",786380,44.3277,114.8087,"MWI, ZAF, SWZ, TZA, ZMB, ZWE",45,529,947,1338,"2006-2012"
+288,34777522,0.01921,238533,"Ghana","GHA","GH",288,"Africa","Western Africa, Sub-Saharan Africa",true,"Republic of Ghana",227533,152.8461,395.8713,"BFA, CIV, TGO",46,1779,2422,5652,"2006-2012"
+604,34683444,0.00963,1285216,"Peru","PER","PE",604,"South America","South America, Latin America",true,"Republic of Peru",1280000,27.0964,70.1798,"BOL, BRA, CHL, COL, ECU",47,3332,4413,6636,2021
+458,34671895,0.01059,330803,"Malaysia","MYS","MY",458,"Asia","South-Eastern Asia",true,"Malaysia",328550,105.53,273.3228,"BRN, IDN, THA",48,8840,11976,11074,2018
+524,31240315,0.01113,147181,"Nepal","NPL","NP",524,"Asia","Southern Asia, South Central Asia",true,"Federal Democratic Republic of Nepal",143350,217.9303,564.4396,"CHN, IND",49,1155,1428,3567,"2006-2012"
+450,31056610,0.0241,587041,"Madagascar","MDG","MG",450,"Africa","Eastern Africa, Sub-Saharan Africa",true,"Republic of Madagascar",581800,53.3802,138.2548,"",50,398,567,1719,"2006-2012"
+384,29603302,0.02529,322463,"Ivory Coast","CIV","CI",384,"Africa","Western Africa, Sub-Saharan Africa",true,"Republic of Côte d'Ivoire",318000,93.0921,241.1087,"BFA, GHA, GIN, LBR, MLI",51,987,1358,5443,"2006-2012"
+862,29395334,0.01931,916445,"Venezuela","VEN","VE",862,"South America","South America, Latin America",true,"Bolivarian Republic of Venezuela",882050,33.3262,86.3147,"BRA, COL, GUY",52,2710,3741,17527,"2006-2012"
+120,29394433,0.02608,475442,"Cameroon","CMR","CM",120,"Africa","Middle Africa, Sub-Saharan Africa",true,"Republic of Cameroon",472710,62.1828,161.0535,"CAF, TCD, COG, GNQ, GAB, NGA",53,1245,1841,3803,"2006-2012"
+562,28238972,0.03809,1267000,"Niger","NER","NE",562,"Africa","Western Africa, Sub-Saharan Africa",true,"Republic of Niger",1266700,22.2933,57.7397,"DZA, BEN, BFA, TCD, LBY, MLI, NGA",54,738,937,1278,"2006-2012"
+36,26699482,0.00985,7692024,"Australia","AUS","AU",36,"Oceania","Australia and New Zealand",true,"Commonwealth of Australia",7692020,3.4711,8.9901,"",55,19363,23583,57207,2018
+760,24348053,0.04826,185180,"Syria","SYR","SY",760,"Asia","Western Asia, The Middle East",true,"Syrian Arab Republic",183630,132.593,343.4159,"IRQ, ISR, JOR, LBN, TUR",57,,1996,2606,"2006-2012"
+466,24015789,0.031,1240192,"Mali","MLI","ML",466,"Africa","Western Africa, Sub-Saharan Africa",true,"Republic of Mali",1220190,19.682,50.9764,"DZA, BFA, GIN, CIV, MRT, NER, SEN",58,689,861,2424,"2006-2012"
+158,23950214,0.00113,36193,"Taiwan","TWN","TW",158,"Asia","Eastern Asia",false,"Republic of China",36197,661.663,1713.7071,"",59,,13903,16713,2016
+854,23840247,0.02532,272967,"Burkina Faso","BFA","BF",854,"Africa","Western Africa, Sub-Saharan Africa",true,"Burkina Faso",273600,87.1354,225.6807,"BEN, CIV, GHA, MLI, NER, TGO",60,748,1002,2274,"2006-2012"
+144,21949268,0.00254,65610,"Sri Lanka","LKA","LK",144,"Asia","Southern Asia, South Central Asia",true,"Democratic Socialist Republic of Sri Lanka",61860,354.8217,918.9881,"IND",61,2277,3162,13656,"2006-2012"
+454,21475962,0.026,118484,"Malawi","MWI","MW",454,"Africa","Eastern Africa, Sub-Saharan Africa",true,"Republic of Malawi",94280,227.7892,589.9739,"MOZ, TZA, ZMB",62,484,733,1106,"2006-2012"
+894,21134695,0.02747,752612,"Zambia","ZMB","ZM",894,"Africa","Eastern Africa, Sub-Saharan Africa",true,"Republic of Zambia",743390,28.4302,73.6341,"AGO, BWA, COD, MWI, MOZ, NAM, TZA, ZWE",63,545,1045,3624,"2006-2012"
+398,19828165,0.0113,2724900,"Kazakhstan","KAZ","KZ",398,"Asia","Central Asia",true,"Republic of Kazakhstan",2699700,7.3446,19.0225,"CHN, KGZ, RUS, TKM, UZB",64,3661,4313,27517,"2006-2012"
+152,19658839,0.00149,756102,"Chile","CHL","CL",152,"South America","South America, Latin America",true,"Republic of Chile",743532,26.4398,68.4791,"ARG, BOL, PER",65,6209,9304,13165,2020
+642,19618996,-0.01377,238391,"Romania","ROU","RO",642,"Europe","Eastern Europe",true,"Romania",230080,85.2703,220.8501,"BGR, HUN, MDA, SRB, UKR",66,7731,8786,13048,2020
+148,18847148,0.03111,1284000,"Chad","TCD","TD",148,"Africa","Middle Africa, Sub-Saharan Africa",true,"Republic of Chad",1259200,14.9676,38.766,"CMR, CAF, LBY, NER, NGA, SSD",67,880,1182,1649,"2006-2012"
+218,18377367,0.01027,276841,"Ecuador","ECU","EC",218,"South America","South America, Latin America",true,"Republic of Ecuador",248360,73.9949,191.6467,"COL, PER",69,3891,5548,6391,2022
+320,18358430,0.01473,108889,"Guatemala","GTM","GT",320,"North America","Central America, Latin America",true,"Republic of Guatemala",107160,171.3179,443.7135,"BLZ, SLV, HND, MEX",70,2252,3431,3780,2014
+686,18221567,0.02581,196722,"Senegal","SEN","SN",686,"Africa","Western Africa, Sub-Saharan Africa",true,"Republic of Senegal",192530,94.6427,245.1247,"GMB, GIN, GNB, MLI, MRT",71,844,1137,3545,"2006-2012"
+528,17671125,0.003,41850,"Netherlands","NLD","NL",528,"Europe","Western Europe",true,"Netherlands",33670,524.8329,1359.3173,"BEL, DEU",72,21480,23422,52163,2020
+716,17020321,0.0213,390757,"Zimbabwe","ZWE","ZW",716,"Africa","Eastern Africa, Sub-Saharan Africa",true,"Republic of Zimbabwe",386850,43.9972,113.9528,"BWA, MOZ, ZAF, ZMB",74,932,1429,2961,"2006-2012"
+324,14528770,0.02383,245857,"Guinea","GIN","GN",324,"Africa","Western Africa, Sub-Saharan Africa",true,"Republic of Guinea",245720,59.1273,153.1398,"CIV, GNB, LBR, MLI, SEN, SLE",75,843,1036,2675,"2006-2012"
+646,14414910,0.02272,26338,"Rwanda","RWA","RW",646,"Africa","Eastern Africa, Sub-Saharan Africa",true,"Republic of Rwanda",24670,584.3093,1513.361,"BDI, COD, TZA, UGA",76,621,925,2325,"2006-2012"
+204,14080072,0.02678,112622,"Benin","BEN","BJ",204,"Africa","Western Africa, Sub-Saharan Africa",true,"Republic of Benin",112760,124.8676,323.4071,"BFA, NER, NGA, TGO",77,699,989,3432,"2006-2012"
+108,13591657,0.02667,27834,"Burundi","BDI","BI",108,"Africa","Eastern Africa, Sub-Saharan Africa",true,"Republic of Burundi",25680,529.2701,1370.8096,"COD, RWA, TZA",78,475,640,784,"2006-2012"
+68,12567336,0.01443,1098581,"Bolivia","BOL","BO",68,"South America","South America, Latin America",true,"Plurinational State of Bolivia",1083300,11.601,30.0465,"ARG, BRA, CHL, PRY, PER",79,5442,7136,3345,2021
+788,12564689,0.00855,163610,"Tunisia","TUN","TN",788,"Africa","Northern Africa",true,"Tunisian Republic",155360,80.8747,209.4654,"DZA, LBY",80,3366,4076,11231,"2006-2012"
+332,11867030,0.01213,27750,"Haiti","HTI","HT",332,"North America","Caribbean",true,"Republic of Haiti",27560,430.5889,1115.2252,"DOM",81,1162,1540,3034,"2006-2012"
+56,11715774,0.00254,30528,"Belgium","BEL","BE",56,"Europe","Western Europe",true,"Kingdom of Belgium",30280,386.9146,1002.1088,"FRA, DEU, LUX, NLD",82,19360,21444,45518,2020
+214,11434005,0.00892,48671,"Dominican Republic","DOM","DO",214,"North America","Caribbean",true,"Dominican Republic",48310,236.6799,613.0009,"HTI",83,3858,5125,8477,2021
+400,11384922,0.00422,89342,"Jordan","JOR","JO",400,"Asia","Western Asia, The Middle East",true,"Hashemite Kingdom of Jordan",88794,128.2172,332.0827,"IRQ, ISR, SAU, SYR",84,3185,4025,10517,"2006-2012"
+728,11277092,0.01698,619745,"South Sudan","SSD","SS",728,"Africa","Middle Africa, Sub-Saharan Africa",true,"Republic of South Sudan",631930,17.8455,46.2198,"CAF, COD, ETH, KEN, SDN, UGA",85,793,1121,1234,"2006-2012"
+340,10759406,0.01563,112492,"Honduras","HND","HN",340,"North America","Central America, Latin America",true,"Republic of Honduras",111890,96.1606,249.0559,"GTM, SLV, NIC",87,2529,3694,2519,2019
+752,10673669,0.0058,450295,"Sweden","SWE","SE",752,"Europe","Northern Europe",true,"Kingdom of Sweden",407283.5,26.207,67.8761,"FIN, NOR",88,18911,21466,52838,2020
+598,10515788,0.01799,462840,"Papua New Guinea","PNG","PG",598,"Oceania","Melanesia",true,"Independent State of Papua New Guinea",452860,23.2208,60.142,"IDN",89,876,1162,4547,"2006-2012"
+203,10503734,0.0008,78865,"Czech Republic","CZE","CZ",203,"Europe","Eastern Europe",true,"Czech Republic",77198.5,136.0614,352.399,"AUT, DEU, POL, SVK",90,12852,14615,22993,2020
+31,10462904,0.00483,86600,"Azerbaijan","AZE","AZ",31,"Asia","Western Asia",true,"Republic of Azerbaijan",82646,126.599,327.8915,"ARM, GEO, IRN, RUS, TUR",91,3193,3851,15041,"2006-2012"
+762,10331513,0.01853,143100,"Tajikistan","TJK","TJ",762,"Asia","Central Asia, South Central Asia",true,"Republic of Tajikistan",138790,74.4399,192.7993,"AFG, CHN, KGZ, UZB",92,1994,2437,3529,"2006-2012"
+300,10302720,-0.00373,131990,"Greece","GRC","GR",300,"Europe","Southern Europe",true,"Hellenic Republic",128900,79.928,207.0135,"ALB, BGR, TUR, MKD",93,9056,10516,17659,2020
+620,10223349,-0.00237,92090,"Portugal","PRT","PT",620,"Europe","Southern Europe",true,"Portuguese Republic",91605.6,111.6018,289.0486,"ESP",94,10855,13352,22242,2020
+348,9994993,-0.01588,93028,"Hungary","HUN","HU",348,"Europe","Eastern Europe",true,"Hungary",91260,109.5222,283.6624,"AUT, HRV, ROU, SRB, SVK, SVN, UKR",95,9683,10921,16126,2020
+784,9591853,0.00788,83600,"United Arab Emirates","ARE","AE",784,"Asia","Western Asia, The Middle East",true,"United Arab Emirates",71020,135.0585,349.8015,"OMN, SAU",96,26324,28755,46722,2018
+112,9455037,-0.00455,207600,"Belarus","BLR","BY",112,"Europe","Eastern Europe",true,"Republic of Belarus",202980,46.5811,120.6451,"LVA, LTU, POL, RUS, UKR",97,6507,7359,19997,"2006-2012"
+376,9311652,0.01495,20770,"Israel","ISR","IL",376,"Asia","Western Asia, The Middle East",true,"State of Israel",21640,430.2982,1114.4722,"EGY, JOR, LBN, SYR",98,12282,14950,42407,2018
+768,9260864,0.02287,56785,"Togo","TGO","TG",768,"Africa","Western Africa, Sub-Saharan Africa",true,"Togolese Republic",54390,170.2678,440.9935,"BEN, BFA, GHA",99,683,964,1667,"2006-2012"
+694,8977972,0.02126,71740,"Sierra Leone","SLE","SL",694,"Africa","Western Africa, Sub-Saharan Africa",true,"Republic of Sierra Leone",72180,124.3831,322.1522,"GIN, LBR",100,765,1004,1794,"2006-2012"
+40,8977139,0.00203,83871,"Austria","AUT","AT",40,"Europe","Western Europe",true,"Republic of Austria",82520,108.7874,281.7595,"CZE, DEU, HUN, ITA, LIE, SVK, SVN, CHE",101,21572,24214,48809,2020
+756,8851431,0.00623,41284,"Switzerland","CHE","CH",756,"Europe","Western Europe",true,"Swiss Confederation",39516,223.9961,580.15,"AUT, FRA, ITA, LIE, DEU",102,23488,28142,85217,2018
+418,7736681,0.01348,236800,"Laos","LAO","LA",418,"Asia","South-Eastern Asia",true,"Lao People's Democratic Republic",230800,33.5211,86.8198,"MMR, KHM, CHN, THA, VNM",103,1065,1389,8172,"2006-2012"
+558,7142529,0.01366,130373,"Nicaragua","NIC","NI",558,"North America","Central America, Latin America",true,"Republic of Nicaragua",120340,59.3529,153.724,"CRI, HND",105,2946,4278,1914,2014
+688,7097028,-0.00728,88361,"Serbia","SRB","RS",688,"Europe","Southern Europe",true,"Republic of Serbia",87460,81.146,210.1681,"BIH, BGR, HRV, HUN, KOS, MKD, MNE, ROU",106,5935,7019,7734,2020
+600,6947270,0.0125,406752,"Paraguay","PRY","PY",600,"South America","South America, Latin America",true,"Republic of Paraguay",397300,17.4862,45.2893,"ARG, BOL, BRA",108,4614,6738,6153,2022
+417,6839606,0.01548,199951,"Kyrgyzstan","KGZ","KG",417,"Asia","Central Asia, South Central Asia",true,"Kyrgyz Republic",191800,35.6601,92.3596,"CHN, KAZ, TJK, UZB",109,1892,2235,5485,"2006-2012"
+100,6618615,-0.01033,110879,"Bulgaria","BGR","BG",100,"Europe","Eastern Europe",true,"Republic of Bulgaria",108560,60.9673,157.9054,"GRC, MKD, ROU, SRB, TUR",110,8329,11271,10154,2020
+795,6598071,0.01258,488100,"Turkmenistan","TKM","TM",795,"Asia","Central Asia, South Central Asia",true,"Turkmenistan",469930,14.0405,36.365,"AFG, IRN, KAZ, UZB",111,706,963,15206,"2006-2012"
+222,6396289,0.00493,21041,"El Salvador","SLV","SV",222,"North America","Central America, Latin America",true,"Republic of El Salvador",20720,308.7012,799.5361,"GTM, HND",112,3781,4782,5127,2022
+178,6244547,0.02255,342000,"Republic of the Congo","COG","CG",178,"Africa","Middle Africa, Sub-Saharan Africa",true,"Republic of the Congo",341500,18.2856,47.3598,"AGO, CMR, CAF, COD, GAB",113,892,1375,3835,"2006-2012"
+208,5939695,0.00487,43094,"Denmark","DNK","DK",208,"Europe","Northern Europe",true,"Kingdom of Denmark",40000,148.4924,384.5953,"DEU",115,20593,23550,60915,2020
+140,5915627,0.03018,622984,"Central African Republic","CAF","CF",140,"Africa","Middle Africa, Sub-Saharan Africa",true,"Central African Republic",622980,9.4957,24.5938,"CMR, TCD, COD, COG, SSD, SDN",116,491,891,986,"2006-2012"
+703,5702832,-0.01594,49037,"Slovakia","SVK","SK",703,"Europe","Eastern Europe",true,"Slovak Republic",49035,116.3013,301.2202,"AUT, CZE, HUN, POL, UKR",117,9037,9505,19382,2019
+246,5549886,0.0008,338424,"Finland","FIN","FI",246,"Europe","Northern Europe",true,"Republic of Finland",303940,18.2598,47.2929,"NOR, SWE, RUS",118,18692,21469,49170,2020
+430,5536949,0.02188,111369,"Liberia","LBR","LR",430,"Africa","Western Africa, Sub-Saharan Africa",true,"Republic of Liberia",96320,57.4849,148.886,"GIN, CIV, SLE",119,753,945,1491,"2006-2012"
+578,5514477,0.00733,323802,"Norway","NOR","NO",578,"Europe","Northern Europe",true,"Kingdom of Norway",364285,15.1378,39.2069,"FIN, SWE, RUS",120,23835,27032,76431,2019
+188,5246714,0.00663,51100,"Costa Rica","CRI","CR",188,"North America","Central America, Latin America",true,"Republic of Costa Rica",51060,102.7559,266.1377,"NIC, PAN",123,5789,8928,13199,2022
+422,5219044,-0.02519,10452,"Lebanon","LBN","LB",422,"Asia","Western Asia, The Middle East",true,"Lebanese Republic",10230,510.1705,1321.3415,"ISR, SYR",124,7712,9091,15195,"2006-2012"
+372,5089478,0.00644,70273,"Ireland","IRL","IE",372,"Europe","Northern Europe",true,"Ireland",68890,73.8783,191.3449,"GBR",125,17962,21177,85420,2020
+478,4993922,0.02692,1030700,"Mauritania","MRT","MR",478,"Africa","Western Africa, Sub-Saharan Africa",true,"Islamic Republic of Mauritania",1030700,4.8452,12.549,"DZA, MLI, SEN, ESH",126,1760,2094,5427,"2006-2012"
+591,4527961,0.0134,75417,"Panama","PAN","PA",591,"North America","Central America, Latin America",true,"Republic of Panama",74180,61.0402,158.0941,"COL, CRI",128,7008,11268,15491,2021
+191,3986627,-0.00549,56594,"Croatia","HRV","HR",191,"Europe","Southern Europe",true,"Republic of Croatia",55960,71.2407,184.5133,"BIH, HUN, MNE, SRB, SVN",130,9855,11056,14237,2020
+268,3717425,-0.00291,69700,"Georgia","GEO","GE",268,"Asia","Western Asia",true,"Georgia",69490,53.4958,138.5542,"ARM, AZE, RUS, TUR",132,2273,2814,15655,"2006-2012"
+496,3493629,0.01348,1564110,"Mongolia","MNG","MN",496,"Asia","Eastern Asia",true,"Mongolia",1557506.8,2.2431,5.8096,"CHN, RUS",133,2800,3409,12861,"2006-2012"
+858,3423316,0.00006,181034,"Uruguay","URY","UY",858,"South America","South America, Latin America",true,"Oriental Republic of Uruguay",175020,19.5596,50.6593,"ARG, BRA",134,7377,9862,17924,2021
+498,3329865,-0.03087,33846,"Moldova","MDA","MD",498,"Europe","Eastern Europe",true,"Republic of Moldova",32884.6,101.2591,262.2611,"ROU, UKR",135,3133,3590,13626,"2006-2012"
+70,3194378,-0.00513,51209,"Bosnia and Herzegovina","BIH","BA",70,"Europe","Southern Europe",true,"Bosnia and Herzegovina",51200,62.3902,161.5906,"HRV, MNE, SRB",137,5925,7131,16288,"2006-2012"
+270,2841803,0.02475,10689,"Gambia","GMB","GM",270,"Africa","Western Africa, Sub-Saharan Africa",true,"Republic of the Gambia",10120,280.8106,727.2994,"SEN",138,1383,1784,2321,"2006-2012"
+8,2826020,-0.00227,28748,"Albania","ALB","AL",8,"Europe","Southern Europe",true,"Republic of Albania",27400,103.1394,267.1311,"MNE, GRC, MKD, KOS",139,3358,3979,5288,2018
+388,2824738,-0.00029,10991,"Jamaica","JAM","JM",388,"North America","Caribbean",true,"Jamaica",10830,260.8253,675.5375,"",140,2899,4429,10193,"2006-2012"
+51,2777979,0,29743,"Armenia","ARM","AM",51,"Asia","Western Asia",true,"Republic of Armenia",28470,97.5757,252.721,"AZE, GEO, IRN, TUR",141,2216,2810,14257,"2006-2012"
+72,2719694,0.01657,582000,"Botswana","BWA","BW",72,"Africa","Southern Africa, Sub-Saharan Africa",true,"Republic of Botswana",566730,4.7989,12.4292,"NAM, ZAF, ZMB, ZWE",143,1596,2907,18552,"2006-2012"
+440,2692798,-0.0094,65300,"Lithuania","LTU","LT",440,"Europe","Northern Europe",true,"Republic of Lithuania",62620,43.0022,111.3757,"BLR, LVA, POL, RUS",144,12425,15940,20364,2020
+516,2645805,0.01599,825615,"Namibia","NAM","NA",516,"Africa","Southern Africa, Sub-Saharan Africa",true,"Republic of Namibia",823290,3.2137,8.3235,"AGO, BWA, ZAF, ZMB",145,1962,4023,10063,"2006-2012"
+266,2484557,0.0197,267668,"Gabon","GAB","GA",266,"Africa","Middle Africa, Sub-Saharan Africa",true,"Gabonese Republic",257670,9.6424,24.9738,"CMR, COG, GNQ",146,2779,3544,15611,"2006-2012"
+426,2356083,0.01106,30355,"Lesotho","LSO","LS",426,"Africa","Southern Africa, Sub-Saharan Africa",true,"Kingdom of Lesotho",30360,77.6048,200.9965,"ZAF",147,1157,1659,2824,"2006-2012"
+705,2118965,-0.00034,20273,"Slovenia","SVN","SI",705,"Europe","Southern Europe",true,"Republic of Slovenia",20136.4,105.2306,272.5472,"AUT, HRV, ITA, HUN",149,15078,16644,25545,2020
+807,2082706.0000000002,-0.00143,25713,"North Macedonia","MKD","MK",807,"Europe","Southern Europe",true,"Republic of North Macedonia",25220,82.5815,213.8861,"ALB, BGR, GRC, KOS, SRB",150,4920,5457,6070,2019
+428,1810240,-0.01091,64559,"Latvia","LVA","LV",428,"Europe","Northern Europe",true,"Republic of Latvia",62230,29.0895,75.3418,"BLR, EST, LTU, RUS",151,10428,12958,18207,2020
+780,1538200,0.00213,5130,"Trinidad and Tobago","TTO","TT",780,"North America","Caribbean",true,"Republic of Trinidad and Tobago",5130,299.8441,776.5961,"",153,2868,3711,27334,"2006-2012"
+626,1379883,0.01418,14874,"Timor-Leste","TLS","TL",626,"Asia","South-Eastern Asia",true,"Democratic Republic of Timor-Leste",14870,92.7964,240.3428,"IDN",155,970,1147,3709,"2006-2012"
+233,1319041,-0.00282,45227,"Estonia","EST","EE",233,"Europe","Northern Europe",true,"Republic of Estonia",42750,30.8548,79.9138,"LVA, RUS",156,13140,15637,23595,2020
+480,1301978,0.00109,2040,"Mauritius","MUS","MU",480,"Africa","Eastern Africa, Sub-Saharan Africa",true,"Republic of Mauritius",2030,641.3685,1661.1443,"",157,3832,4969,23882,"2006-2012"
+196,1268467,0.00661,9251,"Cyprus","CYP","CY",196,"Europe","Eastern Europe, The Middle East",true,"Republic of Cyprus",9240,137.28,355.5551,"GBR",158,15896,19319,28036,2020
+748,1222075,0.00929,17364,"Eswatini","SWZ","SZ",748,"Africa","Southern Africa, Sub-Saharan Africa",true,"Kingdom of Eswatini",17200,71.0509,184.0218,"MOZ, ZAF",159,1097,2091,9003,"2006-2012"
+262,1152329,0.01397,23200,"Djibouti","DJI","DJ",262,"Africa","Eastern Africa, Sub-Saharan Africa",true,"Republic of Djibouti",23180,49.7122,128.7546,"ERI, ETH, SOM",160,1403,1869,5779,"2006-2012"
+242,943072,0.00715,18272,"Fiji","FJI","FJ",242,"Oceania","Melanesia",true,"Republic of Fiji",18270,51.6186,133.6922,"",162,2460,3261,14289,"2006-2012"
+174,867605,0.01823,1862,"Comoros","COM","KM",174,"Africa","Eastern Africa, Sub-Saharan Africa",true,"Union of the Comoros",1861,466.2037,1207.4675,"",163,1401,2050,3194,"2006-2012"
+328,819594,0.00708,214969,"Guyana","GUY","GY",328,"South America","South America, Latin America",true,"Co-operative Republic of Guyana",196850,4.1635,10.7836,"BRA, SUR, VEN",164,2003,2729,13661,"2006-2012"
+64,792382,0.0063,38394,"Bhutan","BTN","BT",64,"Asia","Southern Asia, South Central Asia",true,"Kingdom of Bhutan",38140,20.7756,53.8088,"CHN, IND",165,2446,3189,12355,"2006-2012"
+90,756673,0.02195,28896,"Solomon Islands","SLB","SB",90,"Oceania","Melanesia",true,"Solomon Islands",27990,27.0337,70.0173,"",166,1028,1333,2780,"2006-2012"
+442,661594,0.01043,2586,"Luxembourg","LUX","LU",442,"Europe","Western Europe",true,"Grand Duchy of Luxembourg",2574.5,256.9796,665.5772,"BEL, FRA, DEU",168,28382,34065,117371,2020
+740,628785,0.0089,163820,"Suriname","SUR","SR",740,"South America","South America, Latin America",true,"Republic of Suriname",156000,4.0307,10.4394,"BRA, GUF, GUY",169,1659,2593,17256,"2006-2012"
+499,626102,-0.00061,13812,"Montenegro","MNE","ME",499,"Europe","Southern Europe",true,"Montenegro",13450,46.5503,120.5654,"ALB, BIH, HRV, KOS, SRB",170,5336,6194,8850,2018
+470,536740,0.00313,316,"Malta","MLT","MT",470,"Europe","Southern Europe",true,"Republic of Malta",320,1677.3125,4344.2394,"",173,17560,20801,29197,2020
+462,517886.99999999994,-0.00602,300,"Maldives","MDV","MV",462,"Asia","Southern Asia, South Central Asia",true,"Republic of the Maldives",300,1726.29,4471.0911,"",174,5409,6435,20395,"2006-2012"
+84,416656,0.01419,22966,"Belize","BLZ","BZ",84,"North America","Central America, Latin America",true,"Belize",22810,18.2664,47.3099,"GTM, MEX",176,1927,3246,7314,"2006-2012"
+352,377689,0.00632,103000,"Iceland","ISL","IS",352,"Europe","Northern Europe",true,"Iceland",100830,3.7458,9.7016,"",179,20630,22988,72010,2017
+548,342325,0.02338,12189,"Vanuatu","VUT","VU",548,"Oceania","Melanesia",true,"Republic of Vanuatu",12190,28.0824,72.7335,"",182,1379,1781,3292,"2006-2012"
+678,236381,0.01952,964,"Sao Tome and Principe","STP","ST",678,"Africa","Middle Africa, Sub-Saharan Africa",true,"Democratic Republic of São Tomé and Príncipe",960,246.2302,637.7362,"",187,901,1620,4145,"2006-2012"
+882,228966,0.01456,2842,"Samoa","WSM","WS",882,"Oceania","Polynesia",true,"Independent State of Samoa",2780,82.3619,213.3172,"",188,2537,3418,6795,"2006-2012"
+662,180805,0.00307,616,"Saint Lucia","LCA","LC",662,"North America","Caribbean",true,"Saint Lucia",610,296.4016,767.6802,"",190,4763,7318,10574,2016
+296,135763,0.01684,811,"Kiribati","KIR","KI",296,"Oceania","Micronesia",true,"Independent and Sovereign Republic of Kiribati",810,167.6086,434.1064,"",192,1489,1858,2372,"2006-2012"
+583,116300,0.00934,702,"Micronesia","FSM","FM",583,"Oceania","Micronesia",true,"Federated States of Micronesia",700,166.1429,430.31,"",194,1413,1858,3547,"2006-2012"
+776,108683,0.00844,747,"Tonga","TON","TO",776,"Oceania","Polynesia",true,"Kingdom of Tonga",720,150.9486,390.9569,"",196,2782,3677,6665,"2006-2012"
+690,108263,0.0056,452,"Seychelles","SYC","SC",690,"Africa","Eastern Africa, Sub-Saharan Africa",true,"Republic of Seychelles",460,235.3543,609.5678,"",197,7118,8121,16410,2018
+798,11478,0.0072,26,"Tuvalu","TUV","TV",798,"Oceania","Polynesia",true,"Tuvalu",30,382.6,990.934,"",226,2099,2802,4470,"2006-2012"

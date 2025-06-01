@@ -1,0 +1,484 @@
+Postal_Code,District,Total_Per_District,Country_Name
+1010,Innere Stadt,12096,Austria
+1020,Leopoldstadt,70824,Austria
+1030,Landstraße,65066,Austria
+1040,Wieden,23871,Austria
+1050,Margareten,33815,Austria
+1060,Mariahilf,22409,Austria
+1070,Neubau,23028,Austria
+1080,Josefstadt,17429,Austria
+1090,Alsergrund,27361,Austria
+1100,Favoriten,125648,Austria
+1110,Simmering,70555,Austria
+1120,Meidling,61475,Austria
+1130,Hietzing,43751,Austria
+1140,Penzing,69258,Austria
+1150,Rudolfsheim-Fünfhaus,43760,Austria
+1160,Ottakring,62590,Austria
+1170,Hernals,36730,Austria
+1180,Währing,37775,Austria
+1190,Döbling,54984,Austria
+1200,Brigittenau,49693,Austria
+1210,Floridsdorf,129319,Austria
+1220,Donaustadt,158651,Austria
+1230,Liesing,89343,Austria
+1010,Innere Stadt,1221,Others
+1020,Leopoldstadt,8276,Others
+1030,Landstraße,7336,Others
+1040,Wieden,2678,Others
+1050,Margareten,4170,Others
+1060,Mariahilf,2245,Others
+1070,Neubau,2153,Others
+1080,Josefstadt,2106,Others
+1090,Alsergrund,3422,Others
+1100,Favoriten,13329,Others
+1110,Simmering,6134,Others
+1120,Meidling,6359,Others
+1130,Hietzing,2327,Others
+1140,Penzing,4526,Others
+1150,Rudolfsheim-Fünfhaus,5309,Others
+1160,Ottakring,5897,Others
+1170,Hernals,3191,Others
+1180,Währing,2978,Others
+1190,Döbling,5209,Others
+1200,Brigittenau,6500,Others
+1210,Floridsdorf,10348,Others
+1220,Donaustadt,12133,Others
+1230,Liesing,4327,Others
+1010,Innere Stadt,229,Serbia
+1020,Leopoldstadt,4926,Serbia
+1030,Landstraße,3326,Serbia
+1040,Wieden,837,Serbia
+1050,Margareten,2884,Serbia
+1060,Mariahilf,786,Serbia
+1070,Neubau,856,Serbia
+1080,Josefstadt,732,Serbia
+1090,Alsergrund,1218,Serbia
+1100,Favoriten,14465,Serbia
+1110,Simmering,6181,Serbia
+1120,Meidling,6204,Serbia
+1130,Hietzing,1099,Serbia
+1140,Penzing,4441,Serbia
+1150,Rudolfsheim-Fünfhaus,5787,Serbia
+1160,Ottakring,7842,Serbia
+1170,Hernals,3708,Serbia
+1180,Währing,1410,Serbia
+1190,Döbling,1726,Serbia
+1200,Brigittenau,5428,Serbia
+1210,Floridsdorf,7412,Serbia
+1220,Donaustadt,5617,Serbia
+1230,Liesing,3938,Serbia
+1010,Innere Stadt,85,Turkey
+1020,Leopoldstadt,2788,Turkey
+1030,Landstraße,1617,Turkey
+1040,Wieden,381,Turkey
+1050,Margareten,1498,Turkey
+1060,Mariahilf,447,Turkey
+1070,Neubau,338,Turkey
+1080,Josefstadt,280,Turkey
+1090,Alsergrund,479,Turkey
+1100,Favoriten,12344,Turkey
+1110,Simmering,5082,Turkey
+1120,Meidling,3979,Turkey
+1130,Hietzing,391,Turkey
+1140,Penzing,1857,Turkey
+1150,Rudolfsheim-Fünfhaus,3012,Turkey
+1160,Ottakring,4180,Turkey
+1170,Hernals,1350,Turkey
+1180,Währing,587,Turkey
+1190,Döbling,888,Turkey
+1200,Brigittenau,4888,Turkey
+1210,Floridsdorf,4631,Turkey
+1220,Donaustadt,3743,Turkey
+1230,Liesing,2574,Turkey
+1010,Innere Stadt,74,Syria
+1020,Leopoldstadt,2397,Syria
+1030,Landstraße,1590,Syria
+1040,Wieden,492,Syria
+1050,Margareten,1937,Syria
+1060,Mariahilf,309,Syria
+1070,Neubau,372,Syria
+1080,Josefstadt,183,Syria
+1090,Alsergrund,2491,Syria
+1100,Favoriten,9293,Syria
+1110,Simmering,2767,Syria
+1120,Meidling,3177,Syria
+1130,Hietzing,595,Syria
+1140,Penzing,2464,Syria
+1150,Rudolfsheim-Fünfhaus,2582,Syria
+1160,Ottakring,3416,Syria
+1170,Hernals,1465,Syria
+1180,Währing,744,Syria
+1190,Döbling,1075,Syria
+1200,Brigittenau,2806,Syria
+1210,Floridsdorf,3895,Syria
+1220,Donaustadt,2591,Syria
+1230,Liesing,1705,Syria
+1010,Innere Stadt,1184,Ukraine
+1020,Leopoldstadt,3169,Ukraine
+1030,Landstraße,2859,Ukraine
+1040,Wieden,1052,Ukraine
+1050,Margareten,1253,Ukraine
+1060,Mariahilf,941,Ukraine
+1070,Neubau,823,Ukraine
+1080,Josefstadt,542,Ukraine
+1090,Alsergrund,1202,Ukraine
+1100,Favoriten,3073,Ukraine
+1110,Simmering,1234,Ukraine
+1120,Meidling,1628,Ukraine
+1130,Hietzing,1103,Ukraine
+1140,Penzing,1505,Ukraine
+1150,Rudolfsheim-Fünfhaus,1232,Ukraine
+1160,Ottakring,1365,Ukraine
+1170,Hernals,829,Ukraine
+1180,Währing,1322,Ukraine
+1190,Döbling,2077,Ukraine
+1200,Brigittenau,1880,Ukraine
+1210,Floridsdorf,1901,Ukraine
+1220,Donaustadt,2717,Ukraine
+1230,Liesing,1000,Ukraine
+1010,Innere Stadt,451,Germany
+1020,Leopoldstadt,2812,Germany
+1030,Landstraße,2811,Germany
+1040,Wieden,1141,Germany
+1050,Margareten,1622,Germany
+1060,Mariahilf,1139,Germany
+1070,Neubau,1484,Germany
+1080,Josefstadt,1075,Germany
+1090,Alsergrund,1923,Germany
+1100,Favoriten,1956,Germany
+1110,Simmering,781,Germany
+1120,Meidling,1348,Germany
+1130,Hietzing,1127,Germany
+1140,Penzing,1440,Germany
+1150,Rudolfsheim-Fünfhaus,1379,Germany
+1160,Ottakring,1593,Germany
+1170,Hernals,1177,Germany
+1180,Währing,1653,Germany
+1190,Döbling,1539,Germany
+1200,Brigittenau,1291,Germany
+1210,Floridsdorf,1662,Germany
+1220,Donaustadt,2261,Germany
+1230,Liesing,1094,Germany
+1010,Innere Stadt,114,Romania
+1020,Leopoldstadt,1659,Romania
+1030,Landstraße,1688,Romania
+1040,Wieden,320,Romania
+1050,Margareten,1014,Romania
+1060,Mariahilf,302,Romania
+1070,Neubau,271,Romania
+1080,Josefstadt,228,Romania
+1090,Alsergrund,429,Romania
+1100,Favoriten,5002,Romania
+1110,Simmering,2857,Romania
+1120,Meidling,2027,Romania
+1130,Hietzing,716,Romania
+1140,Penzing,1355,Romania
+1150,Rudolfsheim-Fünfhaus,1921,Romania
+1160,Ottakring,2232,Romania
+1170,Hernals,1048,Romania
+1180,Währing,574,Romania
+1190,Döbling,849,Romania
+1200,Brigittenau,1800,Romania
+1210,Floridsdorf,3068,Romania
+1220,Donaustadt,2784,Romania
+1230,Liesing,1740,Romania
+1010,Innere Stadt,69,Poland
+1020,Leopoldstadt,1510,Poland
+1030,Landstraße,1361,Poland
+1040,Wieden,261,Poland
+1050,Margareten,900,Poland
+1060,Mariahilf,291,Poland
+1070,Neubau,223,Poland
+1080,Josefstadt,216,Poland
+1090,Alsergrund,458,Poland
+1100,Favoriten,3276,Poland
+1110,Simmering,1856,Poland
+1120,Meidling,1900,Poland
+1130,Hietzing,590,Poland
+1140,Penzing,1636,Poland
+1150,Rudolfsheim-Fünfhaus,1615,Poland
+1160,Ottakring,2032,Poland
+1170,Hernals,1107,Poland
+1180,Währing,588,Poland
+1190,Döbling,821,Poland
+1200,Brigittenau,1335,Poland
+1210,Floridsdorf,3708,Poland
+1220,Donaustadt,3499,Poland
+1230,Liesing,1652,Poland
+1010,Innere Stadt,20,Afghanistan
+1020,Leopoldstadt,996,Afghanistan
+1030,Landstraße,741,Afghanistan
+1040,Wieden,147,Afghanistan
+1050,Margareten,668,Afghanistan
+1060,Mariahilf,218,Afghanistan
+1070,Neubau,89,Afghanistan
+1080,Josefstadt,106,Afghanistan
+1090,Alsergrund,279,Afghanistan
+1100,Favoriten,5113,Afghanistan
+1110,Simmering,1729,Afghanistan
+1120,Meidling,1767,Afghanistan
+1130,Hietzing,419,Afghanistan
+1140,Penzing,1115,Afghanistan
+1150,Rudolfsheim-Fünfhaus,1103,Afghanistan
+1160,Ottakring,1690,Afghanistan
+1170,Hernals,715,Afghanistan
+1180,Währing,324,Afghanistan
+1190,Döbling,659,Afghanistan
+1200,Brigittenau,1497,Afghanistan
+1210,Floridsdorf,3408,Afghanistan
+1220,Donaustadt,2855,Afghanistan
+1230,Liesing,1484,Afghanistan
+1010,Innere Stadt,103,Croatia
+1020,Leopoldstadt,1267,Croatia
+1030,Landstraße,1152,Croatia
+1040,Wieden,293,Croatia
+1050,Margareten,743,Croatia
+1060,Mariahilf,308,Croatia
+1070,Neubau,275,Croatia
+1080,Josefstadt,218,Croatia
+1090,Alsergrund,411,Croatia
+1100,Favoriten,3387,Croatia
+1110,Simmering,1847,Croatia
+1120,Meidling,1820,Croatia
+1130,Hietzing,326,Croatia
+1140,Penzing,1314,Croatia
+1150,Rudolfsheim-Fünfhaus,1701,Croatia
+1160,Ottakring,2069,Croatia
+1170,Hernals,945,Croatia
+1180,Währing,567,Croatia
+1190,Döbling,521,Croatia
+1200,Brigittenau,1351,Croatia
+1210,Floridsdorf,1856,Croatia
+1220,Donaustadt,1716,Croatia
+1230,Liesing,1895,Croatia
+1010,Innere Stadt,40,Bosnia and Herzegovina
+1020,Leopoldstadt,1122,Bosnia and Herzegovina
+1030,Landstraße,1057,Bosnia and Herzegovina
+1040,Wieden,221,Bosnia and Herzegovina
+1050,Margareten,769,Bosnia and Herzegovina
+1060,Mariahilf,275,Bosnia and Herzegovina
+1070,Neubau,285,Bosnia and Herzegovina
+1080,Josefstadt,132,Bosnia and Herzegovina
+1090,Alsergrund,323,Bosnia and Herzegovina
+1100,Favoriten,4700,Bosnia and Herzegovina
+1110,Simmering,1899,Bosnia and Herzegovina
+1120,Meidling,1898,Bosnia and Herzegovina
+1130,Hietzing,311,Bosnia and Herzegovina
+1140,Penzing,1191,Bosnia and Herzegovina
+1150,Rudolfsheim-Fünfhaus,1603,Bosnia and Herzegovina
+1160,Ottakring,1840,Bosnia and Herzegovina
+1170,Hernals,860,Bosnia and Herzegovina
+1180,Währing,332,Bosnia and Herzegovina
+1190,Döbling,391,Bosnia and Herzegovina
+1200,Brigittenau,1403,Bosnia and Herzegovina
+1210,Floridsdorf,1776,Bosnia and Herzegovina
+1220,Donaustadt,1678,Bosnia and Herzegovina
+1230,Liesing,1529,Bosnia and Herzegovina
+1010,Innere Stadt,445,Russia
+1020,Leopoldstadt,1836,Russia
+1030,Landstraße,1465,Russia
+1040,Wieden,554,Russia
+1050,Margareten,662,Russia
+1060,Mariahilf,309,Russia
+1070,Neubau,300,Russia
+1080,Josefstadt,310,Russia
+1090,Alsergrund,521,Russia
+1100,Favoriten,2943,Russia
+1110,Simmering,967,Russia
+1120,Meidling,908,Russia
+1130,Hietzing,461,Russia
+1140,Penzing,699,Russia
+1150,Rudolfsheim-Fünfhaus,689,Russia
+1160,Ottakring,621,Russia
+1170,Hernals,414,Russia
+1180,Währing,528,Russia
+1190,Döbling,1209,Russia
+1200,Brigittenau,1251,Russia
+1210,Floridsdorf,2618,Russia
+1220,Donaustadt,2638,Russia
+1230,Liesing,827,Russia
+1010,Innere Stadt,64,Hungary
+1020,Leopoldstadt,1061,Hungary
+1030,Landstraße,1033,Hungary
+1040,Wieden,263,Hungary
+1050,Margareten,542,Hungary
+1060,Mariahilf,307,Hungary
+1070,Neubau,188,Hungary
+1080,Josefstadt,220,Hungary
+1090,Alsergrund,321,Hungary
+1100,Favoriten,2317,Hungary
+1110,Simmering,1098,Hungary
+1120,Meidling,1711,Hungary
+1130,Hietzing,791,Hungary
+1140,Penzing,1086,Hungary
+1150,Rudolfsheim-Fünfhaus,971,Hungary
+1160,Ottakring,975,Hungary
+1170,Hernals,513,Hungary
+1180,Währing,510,Hungary
+1190,Döbling,841,Hungary
+1200,Brigittenau,782,Hungary
+1210,Floridsdorf,1800,Hungary
+1220,Donaustadt,2055,Hungary
+1230,Liesing,1309,Hungary
+1010,Innere Stadt,67,Bulgaria
+1020,Leopoldstadt,822,Bulgaria
+1030,Landstraße,702,Bulgaria
+1040,Wieden,326,Bulgaria
+1050,Margareten,815,Bulgaria
+1060,Mariahilf,275,Bulgaria
+1070,Neubau,191,Bulgaria
+1080,Josefstadt,176,Bulgaria
+1090,Alsergrund,235,Bulgaria
+1100,Favoriten,4554,Bulgaria
+1110,Simmering,884,Bulgaria
+1120,Meidling,1213,Bulgaria
+1130,Hietzing,249,Bulgaria
+1140,Penzing,646,Bulgaria
+1150,Rudolfsheim-Fünfhaus,1035,Bulgaria
+1160,Ottakring,1252,Bulgaria
+1170,Hernals,511,Bulgaria
+1180,Währing,269,Bulgaria
+1190,Döbling,440,Bulgaria
+1200,Brigittenau,958,Bulgaria
+1210,Floridsdorf,1012,Bulgaria
+1220,Donaustadt,1174,Bulgaria
+1230,Liesing,721,Bulgaria
+1010,Innere Stadt,50,Slovakia
+1020,Leopoldstadt,576,Slovakia
+1030,Landstraße,783,Slovakia
+1040,Wieden,142,Slovakia
+1050,Margareten,358,Slovakia
+1060,Mariahilf,142,Slovakia
+1070,Neubau,88,Slovakia
+1080,Josefstadt,194,Slovakia
+1090,Alsergrund,180,Slovakia
+1100,Favoriten,1612,Slovakia
+1110,Simmering,904,Slovakia
+1120,Meidling,655,Slovakia
+1130,Hietzing,335,Slovakia
+1140,Penzing,568,Slovakia
+1150,Rudolfsheim-Fünfhaus,450,Slovakia
+1160,Ottakring,636,Slovakia
+1170,Hernals,337,Slovakia
+1180,Währing,246,Slovakia
+1190,Döbling,404,Slovakia
+1200,Brigittenau,610,Slovakia
+1210,Floridsdorf,1264,Slovakia
+1220,Donaustadt,1430,Slovakia
+1230,Liesing,871,Slovakia
+1010,Innere Stadt,19,North Macedonia
+1020,Leopoldstadt,505,North Macedonia
+1030,Landstraße,283,North Macedonia
+1040,Wieden,60,North Macedonia
+1050,Margareten,276,North Macedonia
+1060,Mariahilf,90,North Macedonia
+1070,Neubau,87,North Macedonia
+1080,Josefstadt,43,North Macedonia
+1090,Alsergrund,119,North Macedonia
+1100,Favoriten,2455,North Macedonia
+1110,Simmering,871,North Macedonia
+1120,Meidling,766,North Macedonia
+1130,Hietzing,126,North Macedonia
+1140,Penzing,435,North Macedonia
+1150,Rudolfsheim-Fünfhaus,630,North Macedonia
+1160,Ottakring,969,North Macedonia
+1170,Hernals,397,North Macedonia
+1180,Währing,115,North Macedonia
+1190,Döbling,167,North Macedonia
+1200,Brigittenau,596,North Macedonia
+1210,Floridsdorf,1230,North Macedonia
+1220,Donaustadt,1011,North Macedonia
+1230,Liesing,596,North Macedonia
+1010,Innere Stadt,71,Iran
+1020,Leopoldstadt,391,Iran
+1030,Landstraße,454,Iran
+1040,Wieden,162,Iran
+1050,Margareten,301,Iran
+1060,Mariahilf,176,Iran
+1070,Neubau,148,Iran
+1080,Josefstadt,105,Iran
+1090,Alsergrund,226,Iran
+1100,Favoriten,882,Iran
+1110,Simmering,483,Iran
+1120,Meidling,503,Iran
+1130,Hietzing,433,Iran
+1140,Penzing,609,Iran
+1150,Rudolfsheim-Fünfhaus,363,Iran
+1160,Ottakring,451,Iran
+1170,Hernals,256,Iran
+1180,Währing,427,Iran
+1190,Döbling,1004,Iran
+1200,Brigittenau,552,Iran
+1210,Floridsdorf,1408,Iran
+1220,Donaustadt,1685,Iran
+1230,Liesing,544,Iran
+1010,Innere Stadt,50,China
+1020,Leopoldstadt,516,China
+1030,Landstraße,505,China
+1040,Wieden,99,China
+1050,Margareten,280,China
+1060,Mariahilf,128,China
+1070,Neubau,90,China
+1080,Josefstadt,113,China
+1090,Alsergrund,184,China
+1100,Favoriten,1046,China
+1110,Simmering,501,China
+1120,Meidling,443,China
+1130,Hietzing,139,China
+1140,Penzing,247,China
+1150,Rudolfsheim-Fünfhaus,464,China
+1160,Ottakring,271,China
+1170,Hernals,119,China
+1180,Währing,194,China
+1190,Döbling,231,China
+1200,Brigittenau,527,China
+1210,Floridsdorf,1029,China
+1220,Donaustadt,1747,China
+1230,Liesing,345,China
+1010,Innere Stadt,134,Italy
+1020,Leopoldstadt,691,Italy
+1030,Landstraße,770,Italy
+1040,Wieden,290,Italy
+1050,Margareten,431,Italy
+1060,Mariahilf,281,Italy
+1070,Neubau,247,Italy
+1080,Josefstadt,226,Italy
+1090,Alsergrund,384,Italy
+1100,Favoriten,710,Italy
+1110,Simmering,300,Italy
+1120,Meidling,362,Italy
+1130,Hietzing,237,Italy
+1140,Penzing,356,Italy
+1150,Rudolfsheim-Fünfhaus,410,Italy
+1160,Ottakring,431,Italy
+1170,Hernals,303,Italy
+1180,Währing,366,Italy
+1190,Döbling,393,Italy
+1200,Brigittenau,435,Italy
+1210,Floridsdorf,341,Italy
+1220,Donaustadt,478,Italy
+1230,Liesing,231,Italy
+1010,Innere Stadt,34,Slovenia
+1020,Leopoldstadt,125,Slovenia
+1030,Landstraße,157,Slovenia
+1040,Wieden,43,Slovenia
+1050,Margareten,80,Slovenia
+1060,Mariahilf,45,Slovenia
+1070,Neubau,45,Slovenia
+1080,Josefstadt,40,Slovenia
+1090,Alsergrund,40,Slovenia
+1100,Favoriten,310,Slovenia
+1110,Simmering,108,Slovenia
+1120,Meidling,138,Slovenia
+1130,Hietzing,42,Slovenia
+1140,Penzing,80,Slovenia
+1150,Rudolfsheim-Fünfhaus,93,Slovenia
+1160,Ottakring,92,Slovenia
+1170,Hernals,58,Slovenia
+1180,Währing,50,Slovenia
+1190,Döbling,89,Slovenia
+1200,Brigittenau,107,Slovenia
+1210,Floridsdorf,209,Slovenia
+1220,Donaustadt,195,Slovenia
+1230,Liesing,157,Slovenia
